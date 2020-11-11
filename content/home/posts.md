@@ -10,6 +10,11 @@ weight = 60  # Order that this section will appear.
 title = "Recently Postsed"
 subtitle = ""
 
+[[content]]
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
@@ -30,16 +35,13 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  What is Lorem Ipsum?
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  
-  
+    
   
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
-  #   3 = Card
+    3 = Card
   #   4 = Citation (publication only)
   view = 2
   
