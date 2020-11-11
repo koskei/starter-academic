@@ -7,15 +7,19 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
+title = "Recentlllllllly Postsed"
 subtitle = ""
+
+## Abstract
+
+We investigated the effectiveness of Duplicate, Erase, and Replace Augmentation procedures (DupER; Foley, 2010) in calibrating the 3PL model using small datasets in an operational setting. DupER procedures were most effective with medium-sized samples (n = 600) in which imputed datasets adequately reflected the score distribution within the target population.
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -37,7 +41,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
