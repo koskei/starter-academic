@@ -5,13 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
 subtitle = ""
 author = "Guanlan Xu, Walter Vispoel"
-page_type = "project"
+page_type = "*"
 filter_default = 0
 view = 1
-columns = "1"
+columns = "0"
 
 
 
