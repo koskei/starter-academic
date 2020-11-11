@@ -1,6 +1,6 @@
 ---
 title: "The Movement and Stillness, Reasonable Interest, and Entirely Free Feelings of Landscape Poetry of Su Shi"
-collection: publications
+collection: publication
 permalink: /publication/2009-10-01-paper-sushi
 excerpt: "This paper is about Sushi's landscape poetry"
 date: 2009-10-01
