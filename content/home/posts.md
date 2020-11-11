@@ -7,10 +7,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recently Postsed"
+title = "Recent Postsed"
 subtitle = ""
 
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
@@ -25,24 +24,6 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  
-
-
   [content.filters]
     tag = ""
     category = ""
@@ -84,23 +65,4 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-
++++
