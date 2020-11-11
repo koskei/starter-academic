@@ -8,12 +8,10 @@ weight = 65  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 author = "Guanlan Xu, Walter Vispoel"
-collection = project 
-type = "Poster"
-permalink = /talks/2019-08-08-poster-data-augmentation
-venue = "APA 2019"
-date = 2019-08-08
-location = "Chicago"
+page_type = "project"
+filter_default = 0
+view = 1
+
 
 
 
