@@ -25,9 +25,15 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-{What is Lorem Ipsum?
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.}  
-
+  
+  title: "Nirvana"
+  date: 2019-04-04T18:55:31+03:00
+  draft: false
+  description: Nirvana was an American rock band formed in Aberdeen, Washington, in 1987 by lead singer and guitarist Kurt Cobain.
+  ---
+  Nirvana was an American rock band formed in Aberdeen, Washington, in *1987* by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic. Though the band dissolved in 1994 after the death of Cobain, their music maintains a popular following and continues to influence modern rock and roll culture.
+  
+  
   [content.filters]
     tag = ""
     category = ""
