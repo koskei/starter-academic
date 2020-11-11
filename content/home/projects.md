@@ -11,7 +11,11 @@ author = "Guanlan Xu, Walter Vispoel"
 page_type = "project"
 filter_default = 0
 view = 1
-
+columns = "1"
+permalink = /talks/2019-08-08-poster-data-augmentation
+venue = "APA 2019"
+date = 2019-08-08
+location = "Chicago"
 
 
 
