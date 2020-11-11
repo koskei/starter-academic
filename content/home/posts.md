@@ -36,7 +36,7 @@ weight = 60  # Order that this section will appear.
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,14 +66,14 @@ weight = 60  # Order that this section will appear.
  css_class = ""
 +++
 ---
-title: "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
-author: "Guanlan Xu, Walter Vispoel"
-collection: talks
-type: "Poster"
-permalink: /talks/2019-08-08-poster-data-augmentation
-venue: "APA 2019"
-date: 2019-08-08
-location: "Chicago"
+title = "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
+author = "Guanlan Xu, Walter Vispoel"
+collection = talk 
+type = "Poster"
+permalink = /talks/2019-08-08-poster-data-augmentation
+venue = "APA 2019"
+date = 2019-08-08
+location = "Chicago"
 ---
 
 
