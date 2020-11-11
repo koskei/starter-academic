@@ -7,6 +7,19 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
+title = "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
+subtitle = "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
+
+
+---
+
+
+## Abstract
+
+We investigated the effectiveness of Duplicate, Erase, and Replace Augmentation procedures (DupER; Foley, 2010) in calibrating the 3PL model using small datasets in an operational setting. DupER procedures were most effective with medium-sized samples (n = 600) in which imputed datasets adequately reflected the score distribution within the target population.
+
+
+
 
 
 [content]
@@ -36,7 +49,7 @@ weight = 60  # Order that this section will appear.
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,18 +78,3 @@ weight = 60  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
----
-title = "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
-author = "Guanlan Xu, Walter Vispoel"
-collection = talk 
-type = "Poster"
-permalink = /talks/2019-08-08-poster-data-augmentation
-venue = "APA 2019"
-date = 2019-08-08
-location = "Chicago"
----
-
-
-## Abstract
-
-We investigated the effectiveness of Duplicate, Erase, and Replace Augmentation procedures (DupER; Foley, 2010) in calibrating the 3PL model using small datasets in an operational setting. DupER procedures were most effective with medium-sized samples (n = 600) in which imputed datasets adequately reflected the score distribution within the target population.
