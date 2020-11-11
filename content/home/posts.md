@@ -7,9 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recentlllllllly Postsed"
-subtitle = ""
-
+title = "Using Data Augmentation to Improve IRT-3PL Calibrations with Small Samples"
 author = "Guanlan Xu, Walter Vispoel"
 collection = talk 
 type = "Poster"
